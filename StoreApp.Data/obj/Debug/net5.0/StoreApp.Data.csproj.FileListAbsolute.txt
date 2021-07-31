@@ -1,0 +1,36 @@
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.deps.json
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.runtimeconfig.json
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.runtimeconfig.dev.json
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\ref\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.pdb
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Entities.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\bin\Debug\net5.0\StoreApp.Entities.pdb
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.csprojAssemblyReference.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.AssemblyInfo.cs
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.csproj.CopyComplete
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\ref\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.pdb
+C:\Users\Manuel Asencio\Desktop\StoreApplication\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.genruntimeconfig.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.deps.json
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.runtimeconfig.json
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.runtimeconfig.dev.json
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\ref\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Data.pdb
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Entities.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\bin\Debug\net5.0\StoreApp.Entities.pdb
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.csprojAssemblyReference.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.AssemblyInfo.cs
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.csproj.CopyComplete
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\ref\StoreApp.Data.dll
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.pdb
+C:\Users\Manuel Asencio\Desktop\StoreApplication V2\StoreApp.Data\obj\Debug\net5.0\StoreApp.Data.genruntimeconfig.cache
